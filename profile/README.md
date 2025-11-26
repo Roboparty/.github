@@ -5,6 +5,6 @@
        alt="roboparty_color" 
        style="width: 300px; margin-right: 60px;">
   <div>
-    RoboParty is a company that is changing the world. Our mission is to make our robots serve every household.
+    RoboParty is a company that is changing the world. Our mission is to make our robots serve every human.
   </div>
 </div>
