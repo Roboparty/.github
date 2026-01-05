@@ -5,7 +5,7 @@
        alt="roboparty_color" 
        style="width: 300px; margin-right: 60px;">
   <div>
-    RoboParty is a company that is changing the world. Our mission is to make our robots serve every human.
+    RoboParty is a company that is changing the world. Our mission is to make our robots serve every human.<br>
     RoboParty（上海萝博派对科技有限公司）是一家致力于改变世界的公司。我们的使命是让机器人服务于每一个人。
   </div>
 </div>
