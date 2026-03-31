@@ -14,7 +14,7 @@
 [![Website](https://img.shields.io/badge/Website-roboparty.com-0078D4?style=flat&logo=google-chrome)](https://roboparty.com)
 [![X](https://img.shields.io/badge/-white?style=flat&logo=x&logoColor=black&labelColor=white&color=white)](https://x.com/RoboParty_DEV)
 [![YouTube](https://img.shields.io/badge/YouTube-ff0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@roboparty-org)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/2Asf4TRP)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/DTcW6rR3Xa)
 [![Bilibili](https://img.shields.io/badge/-bilibili-ff69b4?style=flat&labelColor=ff69b4&logo=bilibili&logoColor=white)](https://space.bilibili.com/3546938634930456)
 [![RedNote](https://img.shields.io/badge/RedNote-FF2442?style=flat)](https://www.xiaohongshu.com/user/profile/695f78060000000037028888)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat)](https://www.linkedin.com/company/roboparty-robotics)
