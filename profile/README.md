@@ -41,6 +41,7 @@ We open-source our core humanoid robot development platform:
   - [salesMail](mailto:sales@roboparty.com)
 - QQ交流群：1078670917
 
-<img src="./qrcode_1774943666277.jpg" 
-       alt="roboparty_color" 
-       style="width: 300px; margin-right: 60px;">
+<div style="display: flex; gap: 20px; align-items: center; justify-content: flex-start;">
+  <img src="./qrcode_qq.jpg" alt="qq QR Code" style="width: 210px; height: auto;">
+  <img src="./qrcode_wx.jpg" alt="wx QR Code" style="width: 260px; height: auto;">
+</div>
