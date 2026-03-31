@@ -40,3 +40,7 @@ We open-source our core humanoid robot development platform:
   - [techMail](mailto:tech@roboparty.com)
   - [salesMail](mailto:sales@roboparty.com)
 - QQ交流群：1078670917
+
+<img src="./qrcode_1774943666277.jpg" 
+       alt="roboparty_color" 
+       style="width: 300px; margin-right: 60px;">
