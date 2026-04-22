@@ -31,6 +31,9 @@ We open-source our core humanoid robot development platform:
 - [**roboto_origin**](https://github.com/Roboparty/roboto_origin)  
   Full-stack open-source framework for humanoid robots, including hardware driver, motion control, algorithm modules and application development.  
   面向人形机器人的全栈开源框架，包含硬件驱动、运动控制、算法模块与应用开发。
+  
+  [**公开知识库（Public knowledge Base）**](https://roboparty.feishu.cn/wiki/space/7630766746726698191?ccm_open_type=lark_wiki_spaceLink&open_tab_from=wiki_home)
+
 
 ### Contact / 联系我们
 - Official: [roboparty.com](https://roboparty.com)
