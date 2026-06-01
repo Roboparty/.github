@@ -47,4 +47,21 @@ We open-source our core humanoid robot development platform:
 <div style="display: flex; gap: 20px; align-items: center; justify-content: flex-start;">
   <img src="./qrcode_qq.jpg" alt="qq QR Code" style="width: 210px; height: auto;">
   <img src="./qrcode_wx.jpg" alt="wx QR Code" style="width: 260px; height: auto;">
+
+### Featured Event / 活动推荐
+
+<a href="https://github.com/D-Robotics/Robotics-Dream-Keeper-Challenge">
+  <img src="./RobotocsDK.png" alt="Robotics Dream Keeper Challenge" width="50%">
+</a>
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Robotics%20Dream%20Keeper%20Challenge-181717?style=flat&logo=github)](https://github.com/D-Robotics/Robotics-Dream-Keeper-Challenge)
+
+- [**Robotics Dream Keeper Challenge**](https://github.com/D-Robotics/Robotics-Dream-Keeper-Challenge)  
+  A staged, hands-on robotics program built around real hardware and production-style delivery. Participants progress from first boot on D-Robotics RDK X5 to a complete, demo-ready AI / robotics project with ROS 2 integration, accelerated inference, and community visibility.  
+  一个围绕真实硬件与产品化交付流程设计的阶段式机器人实战项目。参与者将从 D-Robotics RDK X5 的首次启动出发，逐步完成一个可演示的 AI / 机器人项目，并覆盖 ROS 2 集成、加速推理与社区展示。  
+  
+  Each stage has a suggested milestone window, while submissions can roll flexibly across the full program period. Complete all 3 stages by **July 15, 2026** to be considered as having finished the full program.  
+  每个阶段设有建议里程碑窗口，同时提交可在完整活动周期内灵活滚动。于 **2026 年 7 月 15 日** 前完成全部 3 个阶段，即视为完成完整挑战。
+
+
 </div>
