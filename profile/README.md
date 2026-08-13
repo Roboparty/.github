@@ -1,6 +1,6 @@
 <div style="display: flex; align-items: center;">
-  <img src="https://github.com/user-attachments/assets/6a96903e-6802-4542-ba23-5b60fb73f0b8" 
-       alt="roboparty_color" 
+  <img src="./roboparty-logo.png"
+       alt="RoboParty logo"
        style="width: 300px; margin-right: 60px;">
   <div>
     We are RoboParty, founded on February 21, 2025.  We started developing humanoid robots in April and completed the prototype ROBOTO_ORIGIN in just four months. We have always upheld the philosophy of open source. ROBOTO_ORIGIN's entire R&D process, including all structures, electronics, training, and deployment, has been open-sourced.<br>
