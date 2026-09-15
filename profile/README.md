@@ -48,9 +48,5 @@ We open-source our core humanoid robot development platform:
   <img src="./qrcode_qq2.jpg" alt="qq QR Code" style="width: 210px; height: auto;">
   <img src="./qrcode_wx.jpg" alt="wx QR Code" style="width: 260px; height: auto;">
 
-  
-  Each stage has a suggested milestone window, while submissions can roll flexibly across the full program period. Complete all 3 stages by **July 15, 2026** to be considered as having finished the full program.  
-  每个阶段设有建议里程碑窗口，同时提交可在完整活动周期内灵活滚动。于 **2026 年 7 月 15 日** 前完成全部 3 个阶段，即视为完成完整挑战。
-
 
 </div>
