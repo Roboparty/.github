@@ -50,7 +50,6 @@ We open-source our core humanoid robot development platform:
 
 <div style="display: flex; gap: 20px; align-items: center; justify-content: flex-start;">
   <img src="./qrcode_qq2.jpg" alt="qq QR Code" style="width: 210px; height: auto;">
-  <img src="./qrcode_wx.jpg" alt="wx QR Code" style="width: 260px; height: auto;">
 
 
 </div>
