@@ -26,7 +26,7 @@ We open-source our core humanoid robot development platform:
 我们开源旗下核心人形机器人开发平台：
 
 - [**roboto_01**](https://github.com/Roboparty/RP1)  
-  RP1 is RoboParty's fully open-source humanoid platform: a shared foundation for building, understanding and extending a real robot.
+  RP1 is RoboParty's fully open-source humanoid platform: a shared foundation for building, understanding and extending a real robot.  
   RP1是RoboParty 的全开源人形机器人平台：为理解、构建与拓展真实机器人，提供一个共同的研发起点。
   
 - [**roboto_origin**](https://github.com/Roboparty/roboto_origin)  
