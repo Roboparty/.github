@@ -25,18 +25,19 @@
 We open-source our core humanoid robot development platform:  
 我们开源旗下核心人形机器人开发平台：
 
-[![GitHub Repo](https://img.shields.io/badge/GitHub-roboto__origin-181717?style=flat&logo=github)](https://github.com/Roboparty/roboto_origin)
-[![Stars](https://img.shields.io/github/stars/Roboparty/roboto_origin?style=flat&logo=github&color=yellow)](https://github.com/Roboparty/roboto_origin/stargazers)
-
+- [**roboto_01**](https://github.com/Roboparty/RP1)  
+  RP1 is RoboParty's fully open-source humanoid platform: a shared foundation for building, understanding and extending a real robot.
+  RP1是RoboParty 的全开源人形机器人平台：为理解、构建与拓展真实机器人，提供一个共同的研发起点。
+  
 - [**roboto_origin**](https://github.com/Roboparty/roboto_origin)  
-  Full-stack open-source framework for humanoid robots, including hardware driver, motion control, algorithm modules and application development.  
-  面向人形机器人的全栈开源框架，包含硬件驱动、运动控制、算法模块与应用开发。
+  RPO is RoboParty's full-stack open-source framework for humanoid robots, including hardware driver, motion control, algorithm modules and application development.  
+  RPO是RoboParty 面向人形机器人的全栈开源框架，包含硬件驱动、运动控制、算法模块与应用开发。
 
 - [**Party_OS**](https://github.com/Roboparty/Party_OS)       
-  Open R&D Infrastructure of Humanoid Robotics for Global Developers, including locomotion, perception, manipulation and agent.    
-  面向全球开发者的人形机器人开放研发底座，包含运动控制、感知交互、全身协调控制与操作、智能体系统。    
+  PartyOS is an open R&D Infrastructure of Humanoid Robotics for Global Developers, including locomotion, perception, manipulation and agent.    
+  PartyOS是面向全球开发者的人形机器人开放研发底座，包含运动控制、感知交互、全身协调控制与操作、智能体系统。    
   
-  [**公开知识库（Public knowledge Base）**](https://roboparty.feishu.cn/wiki/space/7630766746726698191?ccm_open_type=lark_wiki_spaceLink&open_tab_from=wiki_home)
+  [**知识库（Knowledge Base）**](https://roboparty.com/documents/roboto-01)
 
 
 ### Contact / 联系我们
