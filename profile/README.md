@@ -1,56 +1,112 @@
-<div style="display: flex; align-items: center;">
-  <img src="./roboparty-logo.png"
-       alt="RoboParty logo"
-       style="width: 300px; margin-right: 60px;">
-  <div>
-    We are RoboParty, founded on February 21, 2025.  We started developing humanoid robots in April and completed the prototype ROBOTO_ORIGIN in just four months. We have always upheld the philosophy of open source. ROBOTO_ORIGIN's entire R&D process, including all structures, electronics, training, and deployment, has been open-sourced.<br>
-    我们是 RoboParty（上海萝博派对科技有限公司），成立于2025年2月21日。四月份我们开始正式做人形机器人，经历四个月完成了原型机的研发。我们一直秉持着开源的理念，ROBOTO_ORIGIN的全研发流程和全部的结构、电气、训练、部署都进行了开源。<br><br>
-    Our mission is to let robots save the world.<br>
-    我们的使命是让机器人拯救世界。
-    <br><br>
-  </div>
-</div>
+<a id="top"></a>
 
-[![Website](https://img.shields.io/badge/Website-roboparty.com-0078D4?style=flat&logo=google-chrome)](https://roboparty.com)
-[![X](https://img.shields.io/badge/-white?style=flat&logo=x&logoColor=black&labelColor=white&color=white)](https://x.com/RoboParty_DEV)
-[![YouTube](https://img.shields.io/badge/YouTube-ff0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@roboparty-org)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/DTcW6rR3Xa)
-[![Bilibili](https://img.shields.io/badge/-bilibili-ff69b4?style=flat&labelColor=ff69b4&logo=bilibili&logoColor=white)](https://space.bilibili.com/3546938634930456)
-[![RedNote](https://img.shields.io/badge/RedNote-FF2442?style=flat)](https://www.xiaohongshu.com/user/profile/695f78060000000037028888)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat)](https://www.linkedin.com/company/roboparty-robotics)
-[![Doc](https://img.shields.io/badge/Doc-FFA500?style=flat&logo=rss&logoColor=white)](https://roboparty.com/roboto_origin/doc)
-[![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:contact@roboparty.com)
-### Our Projects / 核心项目
+<a href="https://github.com/Roboparty/RP1">
+  <picture>
+    <source media="(max-width: 640px)" srcset="assets/1.jpg">
+    <img src="assets/1.jpg" alt="RoboParty ROBOTO 01" width="100%">
+  </picture>
+</a>
 
-We open-source our core humanoid robot development platform:  
-我们开源旗下核心人形机器人开发平台：
+<h1 align="center">RoboParty <a href="https://roboparty.com"><img src="assets/roboparty-mark.svg" alt="RoboParty logo" height="24"></a></h1>
 
-- [**roboto_01**](https://github.com/Roboparty/RP1)  
-  RP1 is RoboParty's fully open-source humanoid platform: a shared foundation for building, understanding and extending a real robot.  
-  RP1是RoboParty 的全开源人形机器人平台：为理解、构建与拓展真实机器人，提供一个共同的研发起点。
-  
-- [**roboto_origin**](https://github.com/Roboparty/roboto_origin)  
-  RPO is RoboParty's full-stack open-source framework for humanoid robots, including hardware driver, motion control, algorithm modules and application development.  
-  RPO是RoboParty 面向人形机器人的全栈开源框架，包含硬件驱动、运动控制、算法模块与应用开发。
+<p align="center">
+  Open hardware. Open intelligence. Shared possibility. · <a href="README.zh-CN.md">Chinese</a>
+</p>
 
-- [**Party_OS**](https://github.com/Roboparty/Party_OS)       
-  PartyOS is an open R&D Infrastructure of Humanoid Robotics for Global Developers, including locomotion, perception, manipulation and agent.    
-  PartyOS是面向全球开发者的人形机器人开放研发底座，包含运动控制、感知交互、全身协调控制与操作、智能体系统。    
-  
-  [**知识库（Knowledge Base）**](https://roboparty.com/documents/roboto-01)
+---
+
+<a id="projects"></a>
+
+## Explore the Repositories <a href="https://roboparty.com"><img src="assets/roboparty-mark.svg" alt="RoboParty logo" height="24"></a> <a href="https://roboparty.com"><img src="https://img.shields.io/badge/Website-2563EB?style=flat-square" alt="Website: RoboParty" height="24"></a>
+
+<a id="rp1"></a>
+
+### RP1: An Open Source Full-Stack Platform for Agentic Humanoids <a href="https://github.com/Roboparty/RP1/stargazers"><img src="https://img.shields.io/github/stars/Roboparty/RP1?style=flat-square&amp;label=Stars&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyIDJsMy4wOSA2LjI2TDIyIDkuMjdsLTUgNC44NyAxLjE4IDYuODhMMTIgMTcuNzdsLTYuMTggMy4yNUw3IDE0LjE0IDIgOS4yN2w2LjkxLTEuMDF6Ii8%2BPC9zdmc%2B&amp;logoColor=white" alt="RP1 stars" height="24"></a> <a href="https://github.com/Roboparty/RP1/forks"><img src="https://img.shields.io/github/forks/Roboparty/RP1?style=flat-square&amp;label=Forks&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTUgNS4zNzJ2Ljg3OGMwIC40MTQuMzM2Ljc1Ljc1Ljc1aDQuNWEuNzUuNzUgMCAwIDAgLjc1LS43NXYtLjg3OGEyLjI1IDIuMjUgMCAxIDEgMS41IDB2Ljg3OGEyLjI1IDIuMjUgMCAwIDEtMi4yNSAyLjI1aC0xLjV2Mi4xMjhhMi4yNTEgMi4yNTEgMCAxIDEtMS41IDBWOC41aC0xLjVBMi4yNSAyLjI1IDAgMCAxIDMuNSA2LjI1di0uODc4YTIuMjUgMi4yNSAwIDEgMSAxLjUgMFpNNSAzLjI1YS43NS43NSAwIDEgMC0xLjUgMCAuNzUuNzUgMCAwIDAgMS41IDBabTYuNzUuNzVhLjc1Ljc1IDAgMSAwIDAtMS41Ljc1Ljc1IDAgMCAwIDAgMS41Wm0tMyA4Ljc1YS43NS43NSAwIDEgMC0xLjUgMCAuNzUuNzUgMCAwIDAgMS41IDBaIi8%2BPC9zdmc%2B&amp;logoColor=white" alt="RP1 forks" height="24"></a>
+
+RP1 is RoboParty's fully open-source humanoid platform: a shared foundation for building, understanding and extending a real robot.
+
+<table width="880">
+  <tr>
+    <td width="440"><a href="https://github.com/Roboparty/RP1"><img src="assets/rp1-box-vault-hq.gif" alt="RP1 humanoid robot vaulting a box" width="100%"></a></td>
+    <td width="440"><img src="assets/rp1-front-flip.gif" alt="RP1 humanoid robot front flip" width="100%"></td>
+  </tr>
+</table>
+
+### ROBOTO_ORIGIN / RPO <a href="https://github.com/Roboparty/roboto_origin/stargazers"><img src="https://img.shields.io/github/stars/Roboparty/roboto_origin?style=flat-square&amp;label=Stars&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyIDJsMy4wOSA2LjI2TDIyIDkuMjdsLTUgNC44NyAxLjE4IDYuODhMMTIgMTcuNzdsLTYuMTggMy4yNUw3IDE0LjE0IDIgOS4yN2w2LjkxLTEuMDF6Ii8%2BPC9zdmc%2B&amp;logoColor=white" alt="ROBOTO_ORIGIN stars" height="24"></a> <a href="https://github.com/Roboparty/roboto_origin/forks"><img src="https://img.shields.io/github/forks/Roboparty/roboto_origin?style=flat-square&amp;label=Forks&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTUgNS4zNzJ2Ljg3OGMwIC40MTQuMzM2Ljc1Ljc1Ljc1aDQuNWEuNzUuNzUgMCAwIDAgLjc1LS43NXYtLjg3OGEyLjI1IDIuMjUgMCAxIDEgMS41IDB2Ljg3OGEyLjI1IDIuMjUgMCAwIDEtMi4yNSAyLjI1aC0xLjV2Mi4xMjhhMi4yNTEgMi4yNTEgMCAxIDEtMS41IDBWOC41aC0xLjVBMi4yNSAyLjI1IDAgMCAxIDMuNSA2LjI1di0uODc4YTIuMjUgMi4yNSAwIDEgMSAxLjUgMFpNNSAzLjI1YS43NS43NSAwIDEgMC0xLjUgMCAuNzUuNzUgMCAwIDAgMS41IDBabTYuNzUuNzVhLjc1Ljc1IDAgMSAwIDAtMS41Ljc1Ljc1IDAgMCAwIDAgMS41Wm0tMyA4Ljc1YS43NS43NSAwIDEgMC0xLjUgMCAuNzUuNzUgMCAwIDAgMS41IDBaIi8%2BPC9zdmc%2B&amp;logoColor=white" alt="ROBOTO_ORIGIN forks" height="24"></a>
+
+RPO is RoboParty's full-stack open-source framework for humanoid robots, including hardware driver, motion control, algorithm modules and application development.
 
 
-### Contact / 联系我们
-- Official: [roboparty.com](https://roboparty.com)
-- GitHub: [github.com/Roboparty](https://github.com/Roboparty)
-- Mail: 
-  - [contactMail](mailto:contact@roboparty.com)
-  - [techMail](mailto:tech@roboparty.com)
-  - [salesMail](mailto:sales@roboparty.com)
-- QQ交流群：1078670917
+<table width="880">
+  <tr>
+    <td width="440"><img src="assets/atom01-01.gif" alt="ROBOTO_ORIGIN running demo 1" width="100%"></td>
+    <td width="440"><img src="assets/atom01-02.gif" alt="ROBOTO_ORIGIN running demo 2" width="100%"></td>
+  </tr>
+</table>
 
-<div style="display: flex; gap: 20px; align-items: center; justify-content: flex-start;">
-  <img src="./qrcode_qq2.jpg" alt="qq QR Code" style="width: 210px; height: auto;">
+### Party_OS. A Connected Stack. <a href="https://github.com/Roboparty/Party_OS/stargazers"><img src="https://img.shields.io/github/stars/Roboparty/Party_OS?style=flat-square&amp;label=Stars&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyIDJsMy4wOSA2LjI2TDIyIDkuMjdsLTUgNC44NyAxLjE4IDYuODhMMTIgMTcuNzdsLTYuMTggMy4yNUw3IDE0LjE0IDIgOS4yN2w2LjkxLTEuMDF6Ii8%2BPC9zdmc%2B&amp;logoColor=white" alt="Party_OS stars" height="24"></a> <a href="https://github.com/Roboparty/Party_OS/forks"><img src="https://img.shields.io/github/forks/Roboparty/Party_OS?style=flat-square&amp;label=Forks&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTUgNS4zNzJ2Ljg3OGMwIC40MTQuMzM2Ljc1Ljc1Ljc1aDQuNWEuNzUuNzUgMCAwIDAgLjc1LS43NXYtLjg3OGEyLjI1IDIuMjUgMCAxIDEgMS41IDB2Ljg3OGEyLjI1IDIuMjUgMCAwIDEtMi4yNSAyLjI1aC0xLjV2Mi4xMjhhMi4yNTEgMi4yNTEgMCAxIDEtMS41IDBWOC41aC0xLjVBMi4yNSAyLjI1IDAgMCAxIDMuNSA2LjI1di0uODc4YTIuMjUgMi4yNSAwIDEgMSAxLjUgMFpNNSAzLjI1YS43NS43NSAwIDEgMC0xLjUgMCAuNzUuNzUgMCAwIDAgMS41IDBabTYuNzUuNzVhLjc1Ljc1IDAgMSAwIDAtMS41Ljc1Ljc1IDAgMCAwIDAgMS41Wm0tMyA4Ljc1YS43NS43NSAwIDEgMC0xLjUgMCAuNzUuNzUgMCAwIDAgMS41IDBaIi8%2BPC9zdmc%2B&amp;logoColor=white" alt="Party_OS forks" height="24"></a>
+
+A Humanoid System built by [RoboParty_Lab](https://lab.roboparty.com/), an open R&D foundation for humanoid robots for global developers.
 
 
-</div>
+### human-humanoid-tools <a href="https://github.com/Roboparty/human-humanoid-tools/stargazers"><img src="https://img.shields.io/github/stars/Roboparty/human-humanoid-tools?style=flat-square&amp;label=Stars&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyIDJsMy4wOSA2LjI2TDIyIDkuMjdsLTUgNC44NyAxLjE4IDYuODhMMTIgMTcuNzdsLTYuMTggMy4yNUw3IDE0LjE0IDIgOS4yN2w2LjkxLTEuMDF6Ii8%2BPC9zdmc%2B&amp;logoColor=white" alt="human-humanoid-tools stars" height="24"></a> <a href="https://github.com/Roboparty/human-humanoid-tools/forks"><img src="https://img.shields.io/github/forks/Roboparty/human-humanoid-tools?style=flat-square&amp;label=Forks&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTUgNS4zNzJ2Ljg3OGMwIC40MTQuMzM2Ljc1Ljc1Ljc1aDQuNWEuNzUuNzUgMCAwIDAgLjc1LS43NXYtLjg3OGEyLjI1IDIuMjUgMCAxIDEgMS41IDB2Ljg3OGEyLjI1IDIuMjUgMCAwIDEtMi4yNSAyLjI1aC0xLjV2Mi4xMjhhMi4yNTEgMi4yNTEgMCAxIDEtMS41IDBWOC41aC0xLjVBMi4yNSAyLjI1IDAgMCAxIDMuNSA2LjI1di0uODc4YTIuMjUgMi4yNSAwIDEgMSAxLjUgMFpNNSAzLjI1YS43NS43NSAwIDEgMC0xLjUgMCAuNzUuNzUgMCAwIDAgMS41IDBabTYuNzUuNzVhLjc1Ljc1IDAgMSAwIDAtMS41Ljc1Ljc1IDAgMCAwIDAgMS41Wm0tMyA4Ljc1YS43NS43NSAwIDEgMC0xLjUgMCAuNzUuNzUgMCAwIDAgMS41IDBaIi8%2BPC9zdmc%2B&amp;logoColor=white" alt="human-humanoid-tools forks" height="24"></a>
+
+Retarget parkour, dance and interaction clips onto any humanoid in about 30 seconds.
+
+
+---
+
+<table width="100%">
+  <tr>
+    <td><a href="https://star-history.com/#Roboparty/RP1&amp;Roboparty/Party_OS&amp;Roboparty/roboto_origin&amp;Roboparty/human-humanoid-tools&amp;Timeline"><img src="assets/star-history.svg" alt="RoboParty repositories star history" width="100%"></a></td>
+  </tr>
+</table>
+
+---
+
+## About RoboParty <a href="https://roboparty.com"><img src="assets/roboparty-mark.svg" alt="RoboParty logo" height="24"></a>
+
+RoboParty was founded on February 21, 2025. RoboParty builds full-stack, open-source humanoid robots—from hardware to code.<br>
+Open robots. Endless possibilities.<br>
+We believe robots will save the world.
+
+
+<a id="community"></a>
+
+<h3 align="center">Join the community, share your projects, and explore with RoboParty.</h3>
+
+<p align="center">
+  <a href="https://x.com/RoboParty_DEV"><img src="https://img.shields.io/badge/X-%40RoboParty_DEV-181818?style=flat-square&amp;logo=x&amp;logoColor=white" alt="X: @RoboParty_DEV" height="24"></a>
+  <a href="https://discord.gg/DTcW6rR3Xa"><img src="https://img.shields.io/badge/Discord-RoboParty-5865F2?style=flat-square&amp;logo=discord&amp;logoColor=white" alt="Discord: RoboParty" height="24"></a>
+  <a href="https://t.me/RoboParty_channel1"><img src="https://img.shields.io/static/v1?label=Telegram&amp;message=RoboParty_channel1&amp;color=26A5E4&amp;style=flat-square&amp;logo=telegram&amp;logoColor=white" alt="Telegram: RoboParty_channel1" height="24"></a>
+  <a href="https://www.youtube.com/@roboparty-org"><img src="https://img.shields.io/badge/YouTube-%40roboparty--org-FF0000?style=flat-square&amp;logo=youtube&amp;logoColor=white" alt="YouTube: @roboparty-org" height="24"></a>
+  <a href="https://www.linkedin.com/company/roboparty-robotics"><img src="https://img.shields.io/badge/LinkedIn-roboparty--robotics-0A66C2?style=flat-square&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyNSAweiIvPjwvc3ZnPg%3D%3D&amp;logoColor=white" alt="LinkedIn: roboparty-robotics" height="24"></a>
+</p>
+
+<p align="center">
+  <a href="assets/qrcode_qq2.jpg"><img src="https://img.shields.io/badge/QQ-1078670917-12B7F5?style=flat-square&amp;logo=qq&amp;logoColor=white" alt="QQ community: 1078670917" height="24"></a>
+  <a href="assets/wechat.png"><img src="https://img.shields.io/badge/WeChat-QR_Code-07C160?style=flat-square&amp;logo=wechat&amp;logoColor=white" alt="WeChat: QR Code" height="24"></a>
+  <a href="https://space.bilibili.com/3546938634930456"><img src="https://img.shields.io/badge/Bilibili-RoboParty-FB7299?style=flat-square&amp;logo=bilibili&amp;logoColor=white" alt="Bilibili: RoboParty" height="24"></a>
+  <a href="https://www.xiaohongshu.com/user/profile/695f78060000000037028888"><img src="https://img.shields.io/badge/RedNote-QR_Code-FF2442?style=flat-square&amp;logo=xiaohongshu&amp;logoColor=white&amp;labelColor=6B7280" alt="RedNote: QR Code" height="24"></a>
+  <a href="https://shop325678674.taobao.com/category.htm?topIds=1026681616905"><img src="https://img.shields.io/badge/Taobao-Store-FF5000?style=flat-square&amp;logo=taobao&amp;logoColor=white" alt="Taobao: Store" height="24"></a>
+</p>
+
+---
+
+<a id="contact"></a>
+
+<h2 align="center">Contact</h2>
+
+<p align="center">
+  <a href="mailto:contact@roboparty.com"><img src="https://img.shields.io/badge/General-contact%40roboparty.com-2563EB?style=flat-square&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPHBhdGggZD0iTTQgNGgxNmMxLjEgMCAyIC45IDIgMnYxMmMwIDEuMS0uOSAyLTIgMkg0Yy0xLjEgMC0yLS45LTItMlY2YzAtMS4xLjktMiAyLTJ6Ii8%2BPHBvbHlsaW5lIHBvaW50cz0iMjIsNiAxMiwxMyAyLDYiLz48L3N2Zz4%3D&amp;logoColor=white" alt="General: contact@roboparty.com" height="24"></a>
+  <a href="mailto:tech@roboparty.com"><img src="https://img.shields.io/badge/Technical-tech%40roboparty.com-2563EB?style=flat-square&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPHBhdGggZD0iTTQgNGgxNmMxLjEgMCAyIC45IDIgMnYxMmMwIDEuMS0uOSAyLTIgMkg0Yy0xLjEgMC0yLS45LTItMlY2YzAtMS4xLjktMiAyLTJ6Ii8%2BPHBvbHlsaW5lIHBvaW50cz0iMjIsNiAxMiwxMyAyLDYiLz48L3N2Zz4%3D&amp;logoColor=white" alt="Technical: tech@roboparty.com" height="24"></a>
+  <a href="mailto:sales@roboparty.com"><img src="https://img.shields.io/badge/Sales-sales%40roboparty.com-2563EB?style=flat-square&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPHBhdGggZD0iTTQgNGgxNmMxLjEgMCAyIC45IDIgMnYxMmMwIDEuMS0uOSAyLTIgMkg0Yy0xLjEgMC0yLS45LTItMlY2YzAtMS4xLjktMiAyLTJ6Ii8%2BPHBvbHlsaW5lIHBvaW50cz0iMjIsNiAxMiwxMyAyLDYiLz48L3N2Zz4%3D&amp;logoColor=white" alt="Sales: sales@roboparty.com" height="24"></a>
+</p>
+
+<p align="center">
+  Let robots become humanity's trusted partners.
+</p>
+
+<p align="center">
+  <a href="https://roboparty.com"><font color="#000000"><b>© RoboParty</b></font></a>
+</p>
