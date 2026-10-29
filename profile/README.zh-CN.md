@@ -76,19 +76,13 @@ RoboParty 成立于 2025 年 2 月 21 日。RoboParty 打造全栈开源人形�
 <h3 align="center">加入社区，分享你的项目，与 RoboParty 一起探索。</h3>
 
 <p align="center">
-  <a href="https://x.com/RoboParty_DEV"><img src="https://img.shields.io/badge/X-%40RoboParty_DEV-181818?style=flat-square&amp;logo=x&amp;logoColor=white" alt="X: @RoboParty_DEV" height="24"></a>
-  <a href="https://discord.gg/DTcW6rR3Xa"><img src="https://img.shields.io/badge/Discord-RoboParty-5865F2?style=flat-square&amp;logo=discord&amp;logoColor=white" alt="Discord: RoboParty" height="24"></a>
-  <a href="https://t.me/RoboParty_channel1"><img src="https://img.shields.io/static/v1?label=Telegram&amp;message=RoboParty_channel1&amp;color=26A5E4&amp;style=flat-square&amp;logo=telegram&amp;logoColor=white" alt="Telegram: RoboParty_channel1" height="24"></a>
-  <a href="https://www.youtube.com/@roboparty-org"><img src="https://img.shields.io/badge/YouTube-%40roboparty--org-FF0000?style=flat-square&amp;logo=youtube&amp;logoColor=white" alt="YouTube: @roboparty-org" height="24"></a>
-  <a href="https://www.linkedin.com/company/roboparty-robotics"><img src="https://img.shields.io/badge/LinkedIn-roboparty--robotics-0A66C2?style=flat-square&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyNSAweiIvPjwvc3ZnPg%3D%3D&amp;logoColor=white" alt="LinkedIn: roboparty-robotics" height="24"></a>
-</p>
-
-<p align="center">
-  <a href="assets/qrcode_qq2.jpg"><img src="https://img.shields.io/badge/QQ-1078670917-12B7F5?style=flat-square&amp;logo=qq&amp;logoColor=white" alt="QQ community: 1078670917" height="24"></a>
-  <a href="assets/wechat.png"><img src="https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1-%E4%BA%8C%E7%BB%B4%E7%A0%81-07C160?style=flat-square&amp;logo=wechat&amp;logoColor=white" alt="微信二维码" height="24"></a>
+  <a href="assets/qrcode_qq2.jpg"><img src="https://img.shields.io/badge/QQ%E7%BE%A4-1078670917-12B7F5?style=flat-square&amp;logo=qq&amp;logoColor=white" alt="QQ群：1078670917" height="24"></a>
+  <a href="assets/wechat.png"><img src="https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1%E7%BE%A4-%E4%BA%8C%E7%BB%B4%E7%A0%81-07C160?style=flat-square&amp;logo=wechat&amp;logoColor=white" alt="微信群二维码" height="24"></a>
   <a href="https://space.bilibili.com/3546938634930456"><img src="https://img.shields.io/badge/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9-RoboParty-FB7299?style=flat-square&amp;logo=bilibili&amp;logoColor=white" alt="Bilibili: RoboParty" height="24"></a>
-  <a href="https://www.xiaohongshu.com/user/profile/695f78060000000037028888"><img src="https://img.shields.io/badge/%E5%B0%8F%E7%BA%A2%E4%B9%A6-%E4%BA%8C%E7%BB%B4%E7%A0%81-FF2442?style=flat-square&amp;logo=xiaohongshu&amp;logoColor=white&amp;labelColor=6B7280" alt="小红书二维码" height="24"></a>
+  <a href="assets/xhs.png"><img src="https://img.shields.io/badge/%E5%B0%8F%E7%BA%A2%E4%B9%A6-%E4%BA%8C%E7%BB%B4%E7%A0%81-FF2442?style=flat-square&amp;logo=xiaohongshu&amp;logoColor=white&amp;labelColor=6B7280" alt="小红书二维码" height="24"></a>
+  <a href="assets/douyin.png"><img src="https://img.shields.io/badge/%E6%8A%96%E9%9F%B3-%E4%BA%8C%E7%BB%B4%E7%A0%81-000000?style=flat-square&amp;logo=tiktok&amp;logoColor=white" alt="抖音二维码" height="24"></a>
   <a href="https://shop325678674.taobao.com/category.htm?topIds=1026681616905"><img src="https://img.shields.io/badge/%E6%B7%98%E5%AE%9D-%E5%95%86%E5%BA%97-FF5000?style=flat-square&amp;logo=taobao&amp;logoColor=white" alt="淘宝商店" height="24"></a>
+  <a href="assets/wechat_channel.jpg"><img src="https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7-07C160?style=flat-square&amp;logo=wechat&amp;logoColor=white" alt="微信公众号" height="24"></a>
 </p>
 
 ---

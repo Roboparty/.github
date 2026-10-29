@@ -86,9 +86,6 @@ We believe robots will save the world.
 <p align="center">
   <a href="assets/qrcode_qq2.jpg"><img src="https://img.shields.io/badge/QQ-1078670917-12B7F5?style=flat-square&amp;logo=qq&amp;logoColor=white" alt="QQ community: 1078670917" height="24"></a>
   <a href="assets/wechat.png"><img src="https://img.shields.io/badge/WeChat-QR_Code-07C160?style=flat-square&amp;logo=wechat&amp;logoColor=white" alt="WeChat: QR Code" height="24"></a>
-  <a href="https://space.bilibili.com/3546938634930456"><img src="https://img.shields.io/badge/Bilibili-RoboParty-FB7299?style=flat-square&amp;logo=bilibili&amp;logoColor=white" alt="Bilibili: RoboParty" height="24"></a>
-  <a href="https://www.xiaohongshu.com/user/profile/695f78060000000037028888"><img src="https://img.shields.io/badge/RedNote-QR_Code-FF2442?style=flat-square&amp;logo=xiaohongshu&amp;logoColor=white&amp;labelColor=6B7280" alt="RedNote: QR Code" height="24"></a>
-  <a href="https://shop325678674.taobao.com/category.htm?topIds=1026681616905"><img src="https://img.shields.io/badge/Taobao-Store-FF5000?style=flat-square&amp;logo=taobao&amp;logoColor=white" alt="Taobao: Store" height="24"></a>
 </p>
 
 ---
