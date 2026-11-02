@@ -2,8 +2,8 @@
 
 <a href="https://github.com/Roboparty/RP1">
   <picture>
-    <source media="(max-width: 640px)" srcset="assets/1.jpg">
-    <img src="assets/1.jpg" alt="RoboParty ROBOTO 01" width="100%">
+    <source media="(max-width: 640px)" srcset="assets/img_v3.png">
+    <img src="assets/img_v3.png" alt="RoboParty ROBOTO 01" width="100%">
   </picture>
 </a>
 
