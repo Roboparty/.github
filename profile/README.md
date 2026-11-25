@@ -58,7 +58,7 @@ Retarget parkour, dance and interaction clips onto any humanoid in about 30 seco
 
 <table width="100%">
   <tr>
-    <td><a href="https://star-history.com/#Roboparty/RP1&amp;Roboparty/Party_OS&amp;Roboparty/roboto_origin&amp;Roboparty/human-humanoid-tools&amp;Timeline"><img src="assets/star-history.svg" alt="RoboParty repositories star history" width="100%"></a></td>
+    <td><a href="https://star-history.com/#Roboparty/RP1&amp;Roboparty/Party_OS&amp;Roboparty/roboto_origin&amp;Timeline"><img src="assets/star-history.svg" alt="RoboParty repositories star history" width="100%"></a></td>
   </tr>
 </table>
 

@@ -58,7 +58,7 @@ RPO是RoboParty 面向人形机器人的全栈开源框架，包含硬件驱动�
 
 <table width="100%">
   <tr>
-    <td><a href="https://star-history.com/#Roboparty/RP1&amp;Roboparty/Party_OS&amp;Roboparty/roboto_origin&amp;Roboparty/human-humanoid-tools&amp;Timeline"><img src="assets/star-history-zh.svg" alt="RoboParty 仓库 Star 历史" width="100%"></a></td>
+    <td><a href="https://star-history.com/#Roboparty/RP1&amp;Roboparty/Party_OS&amp;Roboparty/roboto_origin&amp;Timeline"><img src="assets/star-history-zh.svg" alt="RoboParty 仓库 Star 历史" width="100%"></a></td>
   </tr>
 </table>
 
